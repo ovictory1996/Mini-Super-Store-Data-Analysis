@@ -1,2 +1,2 @@
-# Mini-Super-Store-Data-Analysis
+# Mini-Super-Store-Data-Analysiss
 ![super store](mini_store.jpg)
