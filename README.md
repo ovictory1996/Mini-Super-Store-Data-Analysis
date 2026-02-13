@@ -46,3 +46,13 @@ This dataset enables the analysis of relationships between product characteristi
 #### Raw data:
 The raw data used in this study was obtained from Mimi Super Store, a retail outlet that records daily product sales and outlet information
 [Download Mini Super Store](Mini_Super_Store_Data_Analysis.xlsx)
+
+### Tools used: Excel(Pivot table, pivot chart)
+
+## SKILLS DEMONSTRATED:
+- Converted all currency values from Pounds (£) to Dollars ($).
+- Replace all blank fields with the word "Null ".
+- Created a new column and name it  categorize sales: Sales above $5,000 should be labeled as "High", Sales below $5,000 should be labeled as "Low".
+
+
+
