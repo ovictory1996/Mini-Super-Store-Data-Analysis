@@ -45,4 +45,4 @@ This dataset enables the analysis of relationships between product characteristi
 ## Data Collection and Preparation 
 #### Raw data:
 The raw data used in this study was obtained from Mimi Super Store, a retail outlet that records daily product sales and outlet information
-[Download Mini Super Store](data_SQL.csv)
+[Download Mini Super Store](10. Mini Super Store Data Analysis.xlsx)
