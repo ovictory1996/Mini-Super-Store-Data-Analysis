@@ -41,3 +41,8 @@ The dataset used in this analysis contains retail sales records with information
 - Sales_categorize: A categorical variable indicating the sales level (e.g., Low).
 
 This dataset enables the analysis of relationships between product characteristics, outlet features, and sales performance using Excel-based tools such as pivot tables and charts.
+
+## Data Collection and Preparation 
+#### Raw data:
+The raw data used in this study was obtained from Mimi Super Store, a retail outlet that records daily product sales and outlet information
+[Download Mini Super Store](data_SQL.csv)
