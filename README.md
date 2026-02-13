@@ -54,5 +54,22 @@ The raw data used in this study was obtained from Mimi Super Store, a retail out
 - Replace all blank fields with the word "Null ".
 - Created a new column and name it  categorize sales: Sales above $5,000 should be labeled as "High", Sales below $5,000 should be labeled as "Low".
 
+- Data visualization 
+- Dashboard development 
+- Insight Generation 
 
+### Data Analysis:
+- Top 5 Item Types by total sales
+- Bottom 5 Item Identifiers by total sales
+- Yearly Sales Trend
+- Average Sales by each Outlet Type
+- Total Sales Count
+- Identify the year with the highest and lowest total sales
 
+## Visualizations:
+Visualizations were created using Microsoft Excel to summarize the data and clearly communicate key patterns and trends in sales performance. Excel tools such as charts, pivot charts, and conditional formatting were used to transform numerical data into visual insights. The following visualizations were employed in the analysis:
+- Bar Charts
+- Column Charts
+- Pie Charts
+- Line Charts
+- ![Health2](globa.png)
