@@ -72,4 +72,4 @@ Visualizations were created using Microsoft Excel to summarize the data and clea
 - Column Charts
 - Pie Charts
 - Line Charts
-- ![Health2](globa.png)
+- ![Mini store](dash.png)
