@@ -17,8 +17,6 @@
 
 - [Insight from analysis](#Insight-from-analysis)
 
-- [Summary of Analysis](#Summary-of-Analysis)
-
 - [Conclusion](#Conclusion)
 
 ## INTRODUCTION
@@ -72,4 +70,16 @@ Visualizations were created using Microsoft Excel to summarize the data and clea
 - Column Charts
 - Pie Charts
 - Line Charts
-- ![Mini store](dash.png)
+![Mini store](dash.png)
+
+## Insight from analysis
+- Product categories such as Fruits and Vegetables, Snack Foods, and Dairy recorded higher sales volumes, suggesting strong consumer demand for these essential and fast-moving goods.
+- Items with mid-range prices generated more consistent sales than very low-priced or highly expensive products, suggesting price sensitivity among customers.
+- The majority of products fell into the Low sales category, indicating opportunities for improved marketing strategies
+- Supermarket outlets generated significantly higher sales compared to grocery stores, indicating that outlet format plays an important role in overall sales performance
+
+## Conclusion
+This study analyzed sales data obtained from Mini Super Store using Microsoft Excel to understand how product attributes and outlet characteristics influence sales performance. Through data cleaning, organization, and visualization, meaningful patterns and relationships within the dataset were identified.
+The analysis revealed that outlet type, location, and size significantly affect sales outcomes, while product categories, pricing, and shelf visibility also play important roles in customer purchasing behavior. The insights gained from this analysis highlight opportunities for improving sales through better product placement, pricing strategies, and inventory management.
+
+
